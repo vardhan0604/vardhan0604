@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vardhan0604
 - 👀 I’m interested in WEB development
-- 🌱 I’m currently learning Css and will it up with JS
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 contact me --  https://twitter.com/Vardhan0604
 
