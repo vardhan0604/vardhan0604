@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @vardhan0604
+### Hi there 👋
+
+- I'm Harshvardhan Sharma
 - 👀 I’m interested in WEB development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on web development projects
 <!-- - 📫 contact me --  https://twitter.com/Vardhan0604 -->
 <p align="center">
