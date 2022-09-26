@@ -3,7 +3,7 @@
 - I'm Harshvardhan Sharma
 - 👀 I’m interested in WEB development
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on web development projects
+- ✌🏻 I’m looking to collaborate on web development projects
 <!-- - 📫 contact me --  https://twitter.com/Vardhan0604 -->
 <p align="center">
 
