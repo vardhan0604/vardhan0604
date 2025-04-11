@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=570&lines=Hello%2C+I+am+Harshvardhan+Sharma!)](https://git.io/typing-svg)
 
 ## 💫 About Me:
-I’m a Fullstack developer <br>I’m looking to collaborate on Web development Projects<br>🌱 
+I’m a Fullstack developer <br>I’m looking to collaborate on Web development Projects<br>
 
 
 ## 🌐 Socials:
